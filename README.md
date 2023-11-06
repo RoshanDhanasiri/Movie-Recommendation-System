@@ -1,2 +1,2 @@
-# Movie-Recommendation-Systemv
+# Movie-Recommendation-System
 🎥 Unleash the Magic of Personalized Movie Recommendations! Welcome to my Movie Recommendation System project, where I wielded the power of Collaborative Filtering and the Alternating Least Square (ALS) algorithm to enhance user engagement by 20%. Dive into the world of fine-tuned hyperparameters and discover how I achieved an impressive RMSE of 0.8037, making movie night unforgettable for the users. Elevate data science skills and delight your audience with personalized movie suggestions. 🍿🎬 #DataScience #RecommendationSystem
